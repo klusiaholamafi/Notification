@@ -130,7 +130,7 @@ NotificationTable.CreateNotification = function(TitleData, Text, Image, Settings
 	_Template.BorderColor3 = MainSettings.BorderColor3
 	_Template.Position = UDim2.new(0.713929176, 0, 0.587826073, 0)
 	_Template.Size = UDim2.new(0, 270, 0, 64)
-	_Template.ZIndex = 200
+	_Template.ZIndex = 9
 	_Template.Visible = false;
 	_Template.Parent = Notification
     
